@@ -1,0 +1,17 @@
+@import url("stely/banner.css");
+
+:root {
+    --cor-de-fundo: #40128B;
+    --branco__:#ffffff;
+    --laranja:#DD58D6;
+    --azul--degrade:#00DFA2;
+    --fonte--principal:"Poppins";
+    --azul:#F6FA70;
+    
+}
+body{
+    background-color: var(--cor-de-fundo);
+    font-family: var(--fonte--principal);
+    font-size: 1rem;
+    font-weight: 400;
+}
